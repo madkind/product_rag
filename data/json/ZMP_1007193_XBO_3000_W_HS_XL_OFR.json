@@ -1,0 +1,59 @@
+{
+  "product_name": "XBO 3000 W/HS XL OFR",
+  "family_color_temperature_k": 6000.0,
+  "family_power_min_w": 450.0,
+  "family_power_max_w": 10000.0,
+  "family_color_rendering_index_text": "Ra >",
+  "application_areas": [
+    "Klassische 35-mm-Filmprojektion",
+    "Digitale Film- und Videoprojektion",
+    "Architektur- und Effektlicht („Light Finger“)",
+    "Sonnensimulation"
+  ],
+  "product_family_benefits": [
+    "Kurzbogen mit sehr hoher Leuchtdichte für hellere Leinwandausleuchtung",
+    "Konstante Farbtemperatur von 6.000 K über die gesamte Lebensdauer der Lampe",
+    "Einfach zu warten",
+    "Hohe Lichtbogenstabilität",
+    "Sofort Licht auf der Leinwand dank Heißwiederzündungsfunktion",
+    "Breiter Dimmbereich"
+  ],
+  "nominal_current_a": 100.0,
+  "current_control_range_min_a": 70.0,
+  "current_control_range_max_a": 110.0,
+  "nominal_power_w": 3000.0,
+  "nominal_voltage_v": 29.0,
+  "diameter_mm": 60.0,
+  "length_mm": 342.0,
+  "length_with_base_without_pin_mm": 302.0,
+  "light_center_length_lcl_mm": 145.0,
+  "electrode_gap_cold_mm": 6.0,
+  "product_weight_g": 555.0,
+  "cable_length_mm": 300.0,
+  "max_permissible_pinch_temperature_celsius": 230.0,
+  "lifespan_h": 2200,
+  "base_anode_standard_designation": "SFaX30-9.5",
+  "base_cathode_standard_designation": "SFa30-7.9",
+  "cooling": "Forciert",
+  "burning_position": "s30/p30",
+  "reach_declaration_date": "2022-12-09",
+  "primary_product_eans": [
+    "4008321330031",
+    "4062172030311",
+    "4062172152341"
+  ],
+  "reach_candidate_substance_name": "Lead",
+  "reach_candidate_substance_cas": "7439-92-1",
+  "scip_numbers": [
+    "dd2ddf15-037b-4473-8156-97498e721fb3",
+    "c331ba5b-e29f-4e83-9bdd-095d344154b8"
+  ],
+  "packaging_product_code": "4062172030311",
+  "packaging_product_description": "XBO 3000 W/HS XL\nOFR",
+  "packaging_unit_pieces": 1,
+  "packaging_dimension_length_mm": 1500.0,
+  "packaging_dimension_width_mm": 204.0,
+  "packaging_dimension_height_mm": 204.0,
+  "packaging_volume_dm3": 20.81,
+  "packaging_gross_weight_g": 1366.0
+}

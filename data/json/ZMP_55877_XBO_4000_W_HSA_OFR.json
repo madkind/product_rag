@@ -1,0 +1,57 @@
+{
+  "product_name": "XBO 4000 W/HSA OFR",
+  "family_color_temperature_k": 6000.0,
+  "family_power_min_w": 450.0,
+  "family_power_max_w": 10000.0,
+  "family_color_rendering_index_text": "Ra >",
+  "application_areas": [
+    "Klassische 35-mm-Filmprojektion",
+    "Digitale Film- und Videoprojektion",
+    "Architektur- und Effektlicht („Light Finger“)",
+    "Sonnensimulation"
+  ],
+  "product_family_benefits": [
+    "Kurzbogen mit sehr hoher Leuchtdichte für hellere Leinwandausleuchtung",
+    "Konstante Farbtemperatur von 6.000 K über die gesamte Lebensdauer der Lampe",
+    "Einfach zu warten",
+    "Hohe Lichtbogenstabilität",
+    "Sofort Licht auf der Leinwand dank Heißwiederzündungsfunktion",
+    "Breiter Dimmbereich"
+  ],
+  "nominal_current_a": 135.0,
+  "current_control_range_min_a": 80.0,
+  "current_control_range_max_a": 150.0,
+  "nominal_power_w": 4000.0,
+  "nominal_voltage_v": 29.0,
+  "diameter_mm": 70.0,
+  "length_mm": 416.0,
+  "length_with_base_without_pin_mm": 370.0,
+  "light_center_length_lcl_mm": 171.0,
+  "electrode_gap_cold_mm": 6.6,
+  "product_weight_g": 1022.9,
+  "cable_length_mm": 400.0,
+  "max_permissible_pinch_temperature_celsius": 230.0,
+  "lifespan_h": 1000,
+  "base_anode_standard_designation": "SFaX30-9.5",
+  "base_cathode_standard_designation": "SFa30-7.9",
+  "cooling": "Forciert",
+  "burning_position": "s20/p20",
+  "reach_declaration_date": "2023-08-18",
+  "primary_product_eans": [
+    "4008321337030",
+    "4008321412980"
+  ],
+  "reach_candidate_substance_name": "Lead",
+  "reach_candidate_substance_cas": "7439-92-1",
+  "scip_numbers": [
+    "0b6df52f-0b97-4d4d-bcc0-6d1dab9f13b9"
+  ],
+  "packaging_product_code": "4008321412980",
+  "packaging_product_description": "XBO 4000 W/HSA OFR",
+  "packaging_unit_pieces": 1,
+  "packaging_dimension_length_mm": 590.0,
+  "packaging_dimension_width_mm": 234.0,
+  "packaging_dimension_height_mm": 229.0,
+  "packaging_volume_dm3": 31.62,
+  "packaging_gross_weight_g": 2109.0
+}

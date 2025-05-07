@@ -1,0 +1,7 @@
+PyPDF2
+ipykernel
+google-genai
+langchain
+langchain-community
+python-dotenv
+psycopg2-binary

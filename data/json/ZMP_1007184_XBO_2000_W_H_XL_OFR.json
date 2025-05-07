@@ -1,0 +1,61 @@
+{
+  "product_name": "XBO 2000 W/H XL OFR",
+  "family_color_temperature_k": 6000.0,
+  "family_power_min_w": 450.0,
+  "family_power_max_w": 10000.0,
+  "family_color_rendering_index_text": "Ra >",
+  "application_areas": [
+    "Klassische 35-mm-Filmprojektion",
+    "Digitale Film- und Videoprojektion",
+    "Architektur- und Effektlicht („Light Finger“)",
+    "Sonnensimulation"
+  ],
+  "product_family_benefits": [
+    "Kurzbogen mit sehr hoher Leuchtdichte für hellere Leinwandausleuchtung",
+    "Konstante Farbtemperatur von 6.000 K über die gesamte Lebensdauer der Lampe",
+    "Einfach zu warten",
+    "Hohe Lichtbogenstabilität",
+    "Sofort Licht auf der Leinwand dank Heißwiederzündungsfunktion",
+    "Breiter Dimmbereich"
+  ],
+  "nominal_current_a": 75.0,
+  "current_control_range_min_a": 50.0,
+  "current_control_range_max_a": 85.0,
+  "nominal_power_w": 2000.0,
+  "nominal_voltage_v": 26.0,
+  "diameter_mm": 52.0,
+  "length_mm": 370.0,
+  "length_with_base_without_pin_mm": 322.0,
+  "light_center_length_lcl_mm": 142.5,
+  "electrode_gap_cold_mm": 5.8,
+  "product_weight_g": 534.0,
+  "cable_length_mm": 300.0,
+  "max_permissible_pinch_temperature_celsius": 230.0,
+  "lifespan_h": 3500,
+  "base_anode_standard_designation": "SFaX27-10",
+  "base_cathode_standard_designation": "SFaX27-12",
+  "cooling": "Forciert",
+  "burning_position": "s30/p30",
+  "reach_declaration_date": "2022-12-16",
+  "primary_product_eans": [
+    "4008321211781"
+  ],
+  "reach_candidate_substance_name": "Lead",
+  "reach_candidate_substance_cas": "7439-92-1",
+  "scip_numbers": [
+    "9833f335-0b1f-45d1-96ec-3872939e7bed"
+  ],
+  "country_specific_ean": "4008321211781",
+  "metel_code": "OSRXBO2000HXL",
+  "seg_number": null,
+  "stk_number": null,
+  "uk_org": null,
+  "packaging_product_code": "4008321211781",
+  "packaging_product_description": "XBO 2000 W/H XL\nOFR",
+  "packaging_unit_pieces": 1,
+  "packaging_dimension_length_mm": 590.0,
+  "packaging_dimension_width_mm": 229.0,
+  "packaging_dimension_height_mm": 234.0,
+  "packaging_volume_dm3": 31.62,
+  "packaging_gross_weight_g": 1620.0
+}

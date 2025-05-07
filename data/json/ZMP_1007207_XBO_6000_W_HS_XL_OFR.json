@@ -1,0 +1,57 @@
+{
+  "product_name": "XBO 6000 W/HS XL OFR",
+  "family_color_temperature_k": 6000.00,
+  "family_power_min_w": 450.00,
+  "family_power_max_w": 10000.00,
+  "family_color_rendering_index_text": "Ra >",
+  "application_areas": [
+    "Klassische 35-mm-Filmprojektion",
+    "Digitale Film- und Videoprojektion",
+    "Architektur- und Effektlicht („Light Finger“)",
+    "Sonnensimulation"
+  ],
+  "product_family_benefits": [
+    "_Kurzbogen mit sehr hoher Leuchtdichte für hellere Leinwandausleuchtung",
+    "_Konstante Farbtemperatur von 6.000 K über die gesamte Lebensdauer der Lampe",
+    "_Einfach zu warten",
+    "_Hohe Lichtbogenstabilität",
+    "_Sofort Licht auf der Leinwand dank Heißwiederzündungsfunktion",
+    "_Breiter Dimmbereich"
+  ],
+  "nominal_current_a": 160.00,
+  "current_control_range_min_a": 110.00,
+  "current_control_range_max_a": 165.00,
+  "nominal_power_w": 6000.00,
+  "nominal_voltage_v": 37.00,
+  "diameter_mm": 78.00,
+  "length_mm": 436.00,
+  "length_with_base_without_pin_mm": 393.00,
+  "light_center_length_lcl_mm": 170.50,
+  "electrode_gap_cold_mm": 9.00,
+  "product_weight_g": 1025.00,
+  "cable_length_mm": 400.00,
+  "max_permissible_pinch_temperature_celsius": 230.00,
+  "lifespan_h": 750,
+  "base_anode_standard_designation": "SFaX30-9.5",
+  "base_cathode_standard_designation": "SFa30-7.9",
+  "cooling": "Forciert",
+  "burning_position": "s15/p15",
+  "reach_declaration_date": "2022-12-16",
+  "primary_product_eans": [
+    "4008321412904",
+    "4062172030618"
+  ],
+  "reach_candidate_substance_name": "Lead",
+  "reach_candidate_substance_cas": "7439-92-1",
+  "scip_numbers": [
+    "ff65d599-ce0d-4b3f-b2e1-ecbcefe3d8f1"
+  ],
+  "packaging_product_code": "4062172030618",
+  "packaging_product_description": "XBO 6000 W/HS XL\nOFR",
+  "packaging_unit_pieces": 1,
+  "packaging_dimension_length_mm": 590.00,
+  "packaging_dimension_width_mm": 234.00,
+  "packaging_dimension_height_mm": 234.00,
+  "packaging_volume_dm3": 32.31,
+  "packaging_gross_weight_g": 2174.00
+}

@@ -1,0 +1,62 @@
+{
+  "product_name": "XBO 2000 W/HTP XL OFR",
+  "family_color_temperature_k": 6000.0,
+  "family_power_min_w": 450.0,
+  "family_power_max_w": 10000.0,
+  "family_color_rendering_index_text": "Ra >",
+  "application_areas": [
+    "Klassische 35-mm-Filmprojektion",
+    "Digitale Film- und Videoprojektion",
+    "Architektur- und Effektlicht („Light Finger“)",
+    "Sonnensimulation"
+  ],
+  "product_family_benefits": [
+    "_Kurzbogen mit sehr hoher Leuchtdichte für hellere Leinwandausleuchtung",
+    "_Konstante Farbtemperatur von 6.000 K über die gesamte Lebensdauer der Lampe",
+    "_Einfach zu warten",
+    "_Hohe Lichtbogenstabilität",
+    "_Sofort Licht auf der Leinwand dank Heißwiederzündungsfunktion",
+    "_Breiter Dimmbereich"
+  ],
+  "nominal_current_a": 70.0,
+  "current_control_range_min_a": 50.0,
+  "current_control_range_max_a": 85.0,
+  "nominal_power_w": 2000.0,
+  "nominal_voltage_v": 28.0,
+  "diameter_mm": 52.0,
+  "length_mm": 375.0,
+  "length_with_base_without_pin_mm": 322.0,
+  "light_center_length_lcl_mm": 142.5,
+  "electrode_gap_cold_mm": 5.8,
+  "product_weight_g": 452.0,
+  "cable_length_mm": 0.0,
+  "max_permissible_pinch_temperature_celsius": 230.0,
+  "lifespan_h": 3500,
+  "base_anode_standard_designation": "SFa25-14",
+  "base_cathode_standard_designation": "SFc25-14",
+  "cooling": "Forciert",
+  "burning_position": "s30/p30",
+  "reach_declaration_date": "2022-12-09",
+  "primary_product_eans": [
+    "4008321244031",
+    "4008321650429"
+  ],
+  "reach_candidate_substance_name": "Lead",
+  "reach_candidate_substance_cas": "7439-92-1",
+  "scip_numbers": [
+    "6289c378-8cb7-40d8-bd67-f74e947878c5"
+  ],
+  "country_specific_ean": null,
+  "metel_code": "OSRXBO2000HTPXL",
+  "seg_number": null,
+  "stk_number": null,
+  "uk_org": null,
+  "packaging_product_code": "4008321244031",
+  "packaging_product_description": "XBO 2000 W/HTP XL\nOFRVersandschachtel",
+  "packaging_unit_pieces": 1,
+  "packaging_dimension_length_mm": 590.0,
+  "packaging_dimension_width_mm": 234.0,
+  "packaging_dimension_height_mm": 229.0,
+  "packaging_volume_dm3": 31.62,
+  "packaging_gross_weight_g": 1452.0
+}

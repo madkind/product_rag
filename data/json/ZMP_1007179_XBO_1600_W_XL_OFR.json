@@ -1,0 +1,57 @@
+{
+  "product_name": "XBO 1600 W XL OFR",
+  "family_color_temperature_k": 6000.00,
+  "family_power_min_w": 450.00,
+  "family_power_max_w": 10000.00,
+  "family_color_rendering_index_text": "Ra >",
+  "application_areas": [
+    "Klassische 35-mm-Filmprojektion",
+    "Digitale Film- und Videoprojektion",
+    "Architektur- und Effektlicht („Light Finger“)",
+    "Sonnensimulation"
+  ],
+  "product_family_benefits": [
+    "Kurzbogen mit sehr hoher Leuchtdichte für hellere Leinwandausleuchtung",
+    "Konstante Farbtemperatur von 6.000 K über die gesamte Lebensdauer der Lampe",
+    "Einfach zu warten",
+    "Hohe Lichtbogenstabilität",
+    "Sofort Licht auf der Leinwand dank Heißwiederzündungsfunktion",
+    "Breiter Dimmbereich"
+  ],
+  "nominal_current_a": 65.00,
+  "current_control_range_min_a": 45.00,
+  "current_control_range_max_a": 75.00,
+  "nominal_power_w": 1600.00,
+  "nominal_voltage_v": 24.00,
+  "diameter_mm": 52.00,
+  "length_mm": 370.00,
+  "length_with_base_without_pin_mm": 322.00,
+  "light_center_length_lcl_mm": 143.00,
+  "electrode_gap_cold_mm": 4.80,
+  "product_weight_g": 418.00,
+  "cable_length_mm": -1.00,
+  "max_permissible_pinch_temperature_celsius": 230.00,
+  "lifespan_h": 3500,
+  "base_anode_standard_designation": "SFaX27-10",
+  "base_cathode_standard_designation": "SFa27-12",
+  "cooling": "Forciert",
+  "burning_position": "Other",
+  "reach_declaration_date": "2023-05-19",
+  "primary_product_eans": [
+    "4008321299918",
+    "4062172031714"
+  ],
+  "reach_candidate_substance_name": "Lead",
+  "reach_candidate_substance_cas": "7439-92-1",
+  "scip_numbers": [
+    "c83dcc90-6023-4924-b0d8-b34998daa554"
+  ],
+  "packaging_product_code": "4062172031714",
+  "packaging_product_description": "XBO 1600 W XL OFR",
+  "packaging_unit_pieces": 1,
+  "packaging_dimension_length_mm": 410.00,
+  "packaging_dimension_width_mm": 184.00,
+  "packaging_dimension_height_mm": 180.00,
+  "packaging_volume_dm3": 13.58,
+  "packaging_gross_weight_g": 890.00
+}

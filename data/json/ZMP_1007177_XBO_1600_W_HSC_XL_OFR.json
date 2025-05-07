@@ -1,0 +1,58 @@
+{
+  "product_name": "XBO 1600 W/HSC XL OFR",
+  "family_color_temperature_k": 6000.0,
+  "family_power_min_w": 450.0,
+  "family_power_max_w": 10000.0,
+  "family_color_rendering_index_text": "Ra >",
+  "application_areas": [
+    "Klassische 35-mm-Filmprojektion",
+    "Digitale Film- und Videoprojektion",
+    "Architektur- und Effektlicht („Light Finger“)",
+    "Sonnensimulation"
+  ],
+  "product_family_benefits": [
+    "_Kurzbogen mit sehr hoher Leuchtdichte für hellere Leinwandausleuchtung",
+    "_Konstante Farbtemperatur von 6.000 K über die gesamte Lebensdauer der Lampe",
+    "_Einfach zu warten",
+    "_Hohe Lichtbogenstabilität",
+    "_Sofort Licht auf der Leinwand dank Heißwiederzündungsfunktion",
+    "_Breiter Dimmbereich"
+  ],
+  "nominal_current_a": 65.0,
+  "current_control_range_min_a": 50.0,
+  "current_control_range_max_a": 70.0,
+  "nominal_power_w": 1600.0,
+  "nominal_voltage_v": 23.0,
+  "diameter_mm": 46.0,
+  "length_mm": 236.0,
+  "length_with_base_without_pin_mm": 222.0,
+  "light_center_length_lcl_mm": 95.0,
+  "electrode_gap_cold_mm": 3.8,
+  "product_weight_g": 321.0,
+  "cable_length_mm": 265.0,
+  "max_permissible_pinch_temperature_celsius": 230.0,
+  "lifespan_h": 2500,
+  "base_anode_standard_designation": "SK27/50",
+  "base_cathode_standard_designation": "SFcX27-8",
+  "cooling": "Forciert",
+  "burning_position": "s20/p20",
+  "reach_declaration_date": "2022-12-16",
+  "primary_product_eans": [
+    "4008321299932",
+    "4062172031721"
+  ],
+  "reach_candidate_substance_name": "Lead",
+  "reach_candidate_substance_cas": "7439-92-1",
+  "scip_numbers": [
+    "49877f08-b6d6-461c-b64a-018655e8a602",
+    "7a9913f5-169b-4ced-8b20-4a10b8b6fd73"
+  ],
+  "packaging_product_code": "4062172031721",
+  "packaging_product_description": "XBO 1600 W/HSC XL\nOFR",
+  "packaging_unit_pieces": 1,
+  "packaging_dimension_length_mm": 410.0,
+  "packaging_dimension_width_mm": 184.0,
+  "packaging_dimension_height_mm": 180.0,
+  "packaging_volume_dm3": 13.58,
+  "packaging_gross_weight_g": 910.0
+}
