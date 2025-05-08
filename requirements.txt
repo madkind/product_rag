@@ -5,3 +5,5 @@ langchain
 langchain-community
 python-dotenv
 psycopg2-binary
+tiktoken
+sentence-transformers

@@ -1,3 +1,5 @@
+CREATE EXTENSION vector;
+
 CREATE TABLE xenon_lamps (
     id SERIAL PRIMARY KEY, -- Auto-incrementing primary key
 
@@ -57,11 +59,10 @@ CREATE TABLE xenon_lamps (
     packaging_dimension_height_mm NUMERIC,
     packaging_volume_dm3 NUMERIC,
     packaging_gross_weight_g NUMERIC,
-
-    -- Timestamps for record management (optional but good practice)
-    created_at TIMESTAMPTZ DEFAULT CURRENT_TIMESTAMP,
-    updated_at TIMESTAMPTZ DEFAULT CURRENT_TIMESTAMP
+    content TEXT,
+    embedding vector(768) 
 );
+CREATE INDEX ON xenon_lamps USING hnsw (embedding vector_cosine_ops) WITH (m = 16, ef_construction = 64);
 
 -- Add comments to columns based on the 'title' from the JSON schema
 COMMENT ON COLUMN xenon_lamps.product_name IS 'Product Name';
