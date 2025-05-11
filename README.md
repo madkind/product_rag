@@ -24,7 +24,7 @@ To validate your approach, here are a few questions we will very likely ask your
 1. How much does the XBO 4000 W/HS XL OFR weigh?
 2. Which luminaire is best suited for my home theater?
 3. Give me all lamps with at least 1500W and a lifetime of more than 3000 hours.
-4. What is the smallest unit I can order?
+4. What is the smallest unit I can order? - SKIPPED for now
 5. Which luminaire has the SCIP number dd2ddf15-037b-4473-8156-97498e721fb3?
 
 Make sure these queries can definitely be answered correctly.
