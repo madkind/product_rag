@@ -2,6 +2,7 @@ version: '3.8'
 
 services:
   postgres:
+    command: ["postgres", "-c", "log_statement=all"]
     image: pgvector/pgvector:pg17
     container_name: postgres_db
     environment:
